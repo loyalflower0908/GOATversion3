@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GOAT</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login_view_model">LoginViewModel</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="default_web_client_id" translatable="false">505422705705-kpvkulmhuu74tbnoml24irti1a2s841k.apps.googleusercontent.com</string>
+
+</resources>
+
